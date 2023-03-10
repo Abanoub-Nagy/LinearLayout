@@ -40,7 +40,7 @@
                     android:layout_marginBottom="@dimen/small_margin"
                     android:fontFamily="@font/dm_sans_bold"
                     android:lines="1"
-                    android:text="@string/person_name"
+                    android:text="@string/person_name2"
                     android:textColor="@color/black"
                     android:textSize="@dimen/title" />
 
@@ -64,8 +64,8 @@
                         android:layout_height="@dimen/loca_icon"
                         android:layout_gravity="center_vertical"
                         android:layout_marginEnd="@dimen/tiny_margin"
-                        android:src="@drawable/icon_location"
-                        android:contentDescription="@string/location" />
+                        android:contentDescription="@string/location"
+                        android:src="@drawable/icon_location" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -107,8 +107,8 @@
                             android:layout_width="@dimen/star_icon"
                             android:layout_height="@dimen/star_icon"
                             android:layout_gravity="center_vertical"
-                            android:src="@drawable/icon_star"
-                            android:contentDescription="@string/ratio" />
+                            android:contentDescription="@string/ratio"
+                            android:src="@drawable/icon_star" />
 
                     </LinearLayout>
                 </LinearLayout>
