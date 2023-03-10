@@ -1,12 +1,13 @@
 <resources>
     <string name="app_name">LinearLayout</string>
-        <string name="person_name">Abanoub Nagy Azmy</string>
-        <string name="specification">Engineer</string>
-        <string name="location">EG</string>
-        <string name="reviews">(150 Reviews)</string>
-        <string name="ratio">4.5</string>
-        <string name="hours">3 hr</string>
-        <string name="nationality">Egyption</string>
-        <string name="last_view">5 Days ago</string>
+    <string name="person_name1">Abanoub Nagy Azmy</string>
+    <string name="person_name2">Ahmed hassan</string>
+    <string name="specification">Engineer</string>
+    <string name="location">EG</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="ratio">4.5</string>
+    <string name="hours">3 hr</string>
+    <string name="nationality">Egyption</string>
+    <string name="last_view">5 Days ago</string>
 
 </resources>
